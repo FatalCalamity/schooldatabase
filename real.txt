@@ -1,0 +1,25 @@
+**************************************************************
+SCHOOL DATABASE INFO
+************************************************
+COURSES:
+Course: CMP-168 | Number of Credits: 04 | Undergraduate
+Course: CMP-169 | Number of Credits: 04 | Graduate
+Course: GAY-666 | Number of Credits: 06 | Undergraduate
+Course:  XD-420 | Number of Credits: 01 | Graduate
+Course: MAT- 69 | Number of Credits: 01 | Undergraduate
+Course: ENG-121 | Number of Credits: 01 | Undergraduate
+************************************************
+************************************************
+GENERAL STAFF:
+************************************************
+************************************************
+FACULTY:
+Person: Name:                         Jeremy | Birth Year: 2005 Employee: Department:                 Math | Employee Number:   1 Faculty:  Is Tenured | Number of Courses Taught:   0 | Courses Taught: 
+************************************************
+************************************************
+STUDENTS:
+Person: Name:                         binary | Birth Year: 2006 Student: studentID: 0001 | Major                   CS |  Undergraduate | Number of Courses Taken:   0 | Courses Taken: 
+Person: Name:                         Julian | Birth Year: 2006 Student: studentID: 0002 | Major                   CS |       Graduate | Number of Courses Taken:   1 | Courses Taken: GAY-666
+Person: Name:                          Jenny | Birth Year: 2006 Student: studentID: 0003 | Major                   CS |  Undergraduate | Number of Courses Taken:   4 | Courses Taken: CMP-168, GAY-666, MAT-69, ENG-121
+************************************************
+**************************************************************
